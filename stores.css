@@ -1,0 +1,69 @@
+body {
+  background-color: grey;
+}
+
+#header {
+  text-align: center;
+  font-size: 75px;
+  font:
+}
+
+#headerPic {
+  width: 400px;
+  height: 200px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+li a:hover {
+    background-color: grey;
+  }
+
+table, th, td {
+   border: 1px solid black;
+   margin: 20px;
+}
+
+#mainSection {
+  margin:auto;
+  font-family: Arial;
+  font-size: 25px;
+}
+
+#userInfo {
+  margin: 30px;
+  font-family: Arial;
+  font-size: 18px;
+}
+
+#thosePhotos {
+  margin: 20px;
+  width: 300px;
+  height: 300px;
+  border-style: solid;
+  list-style-type: none;
+  display: inline-block;
+  flex-direction:row;
+  flex-wrap: wrap;
+  text-align:center;
+}
