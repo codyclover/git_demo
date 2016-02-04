@@ -1,0 +1,50 @@
+#MainTitle {
+  text-align: center;
+  font-size: 40px;
+}
+
+#thoseDamnHeaders {
+  font-family: Arial;
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+#sexyText2 {
+  font-family:Arial ;
+  font-size:25px ;
+}
+
+#sexyText3 {
+  font-family: Courier;
+  font-size: 20px;
+}
+
+.rippinTearin {
+  font-family: Arial;
+  font-size: 25px;
+  text-decoration: underline;
+
+}
+
+#bigBox1 {
+  background-color: grey;
+  width: 800px;
+  height: 100px;
+  list-style-type: none;
+}
+
+#bigBox2 {
+  background-color: black;
+  width:800px;
+  height: 100px;
+  list-style-type: none;
+}
+
+#bigBox3 {
+  background-color: grey;
+  width:800px;
+  height: 100px;
+  list-style-type: none;
+
+
+}
